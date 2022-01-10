@@ -10,7 +10,7 @@
 
 >I implemented the following DESIGN PATTERNS:
 
->Fecade :control_knobs:
+>Fecade :diamond_shape_with_a_dot_inside:
 
 
 ![imagenes](https://github.com/celfiew/Ecommerce-payment/blob/main/running.PNG)
