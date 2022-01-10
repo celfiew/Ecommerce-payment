@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="springframework.spring" type="repository">
+    <properties maven-id="springframework:spring:1.2.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring/1.2.6/spring-1.2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
